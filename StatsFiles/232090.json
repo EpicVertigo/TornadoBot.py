@@ -1,0 +1,51 @@
+{
+    "achOffset": 6,
+    "firstRow": 7,
+    "firstTime": false,
+    "selfCreated": true,
+    "stats": {
+        "Done": "K",
+        "Name": "J",
+        "Percent": "M",
+        "Total": "N",
+        "Undone": "L"
+    },
+    "users": {
+        "HB": {
+            "SteamID": "76561197996801976",
+            "index": 7,
+            "letter": "G",
+            "statsIndex": 4
+        },
+        "Heatwave": {
+            "SteamID": "76561198016786171",
+            "index": 9,
+            "letter": "I",
+            "statsIndex": 6
+        },
+        "Inked": {
+            "SteamID": "76561197998644012",
+            "index": 6,
+            "letter": "F",
+            "statsIndex": 3
+        },
+        "Rion": {
+            "SteamID": "76561198015170791",
+            "index": 8,
+            "letter": "H",
+            "statsIndex": 5
+        },
+        "Vertigo": {
+            "SteamID": "76561197999838208",
+            "index": 4,
+            "letter": "D",
+            "statsIndex": 1
+        },
+        "Zang": {
+            "SteamID": "76561197991742688",
+            "index": 5,
+            "letter": "E",
+            "statsIndex": 2
+        }
+    }
+}

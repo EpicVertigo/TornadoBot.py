@@ -1,0 +1,5 @@
+discord.py>0.15
+gspread==0.6.2
+google-api-python-client
+imgurpython
+wikipedia

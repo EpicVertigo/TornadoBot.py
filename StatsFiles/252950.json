@@ -1,0 +1,45 @@
+{
+    "achOffset": 5,
+    "firstRow": 6,
+    "firstTime": false,
+    "selfCreated": true,
+    "stats": {
+        "Done": "J",
+        "Name": "I",
+        "Percent": "L",
+        "Total": "M",
+        "Undone": "K"
+    },
+    "users": {
+        "HB": {
+            "SteamID": "76561197996801976",
+            "index": 4,
+            "letter": "D",
+            "statsIndex": 1
+        },
+        "Inked": {
+            "SteamID": "76561197998644012",
+            "index": 5,
+            "letter": "E",
+            "statsIndex": 2
+        },
+        "Rion": {
+            "SteamID": "76561198015170791",
+            "index": 6,
+            "letter": "F",
+            "statsIndex": 3
+        },
+        "Vertigo": {
+            "SteamID": "76561197999838208",
+            "index": 8,
+            "letter": "H",
+            "statsIndex": 5
+        },
+        "Zang": {
+            "SteamID": "76561197991742688",
+            "index": 7,
+            "letter": "G",
+            "statsIndex": 4
+        }
+    }
+}
